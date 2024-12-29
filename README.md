@@ -3,6 +3,9 @@
 This project is a **Streamlit-based web application** designed to provide movie and music recommendations. The app features personalized suggestions, an IMDb TOP 250 list, data visualizations, and analyses based on movie and music datasets.
 
 ---
+**Note: Project need Python 3.7.4 version**
+
+![image](https://github.com/user-attachments/assets/2e905309-928f-45af-9cbc-33568409fe62)
 
 ## 📋 Features  
 
@@ -40,6 +43,26 @@ This project is a **Streamlit-based web application** designed to provide movie 
 - **Algorithm Used**: K-Nearest Neighbors (KNN).  
 - **Challenges**: Repeated records in the dataset result in duplicate recommendations.  
 
+
+
+---
+
+## 🖼️ Screenshots  
+
+### **1. Movie Recommendation System**  
+![image](https://github.com/user-attachments/assets/d823c539-a53a-4323-a45a-eca94784d86c)
+
+### **2. IMDb TOP 250 List**  
+![image](https://github.com/user-attachments/assets/bed29d1e-b261-4fa8-81b1-ed02db2ef932)
+
+### **3. Data Analysis Visualizations**  
+![image](https://github.com/user-attachments/assets/a870ad0a-939d-4f6a-a5d4-63a542fa40fc)
+
+### **4. Music Recommendation System**  
+![image](https://github.com/user-attachments/assets/0f7fb250-43fd-4936-88b4-549df8f3cb16)
+
+
+---
 ---
 
 ## 📁 Project Structure  
@@ -101,23 +124,6 @@ This project is a **Streamlit-based web application** designed to provide movie 
    streamlit run main.py
    ```
 
----
-
-## 🖼️ Screenshots  
-
-### **1. Movie Recommendation System**  
-![Movie Recommendation System](images/movie_recommendation.png)  
-
-### **2. IMDb TOP 250 List**  
-![IMDb TOP 250](images/imdb_top_250.png)  
-
-### **3. Data Analysis Visualizations**  
-![Data Analysis](images/analysis.png)  
-
-### **4. Music Recommendation System**  
-![Music Recommendation System](images/music_recommendation.png)  
-
----
 
 ## 📊 Datasets  
 
